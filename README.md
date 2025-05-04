@@ -40,7 +40,7 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 4. Ve a **Paleta de Componentes** -> clic derecho -> Nueva Categoria -> **Agregar desde JAR...**.
 5. Selecciona el `.jar` generado o descargado.
 6. Marca la clase `LabelPersonalizado` en la lista.
-7. Asigna una categoría (ejemplo “CompPersonalizado”) y finaliza.
+7. Asigna una categoría (ejemplo “Componentes”) y finaliza.
 8. El componente aparecerá en la paleta.
 
 ![final esperado](images/imagen11.png)
