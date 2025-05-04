@@ -26,7 +26,7 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 | `setBackGroundColor(Color color)`    | Cambia el color de fondo                                       |
 | `setParpadeo(boolean activar)`       | Activa/desactiva parpadeo del texto                            |
 | `setMovil(boolean activar)`          | Activa/desactiva el movimiento horizontal                      |
-| `setSonidoClickDerecho(String path)` | Define el sonido `.wav` que se reproduce al hacer clic derecho |
+| `setSonidoClickDerecho(String path)` | Define el sonido que se reproduce al hacer clic derecho |
 
 ## Instrucciones de uso
 
