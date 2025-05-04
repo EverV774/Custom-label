@@ -65,3 +65,9 @@ labelPersonalizado1.setFontSize(24);
 ![Estilo de borde](images/imagen10.png)
 
 ![Texto modificado](images/animacion1.gif)
+
+# Colaboradores
+
+[Álvarez Martínez Alessandro Santiago] (https://github.com/AleSantiagoAM)
+
+[Velasco Velasco Heber] (https://github.com/EverV774)
