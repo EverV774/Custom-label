@@ -68,6 +68,7 @@ labelPersonalizado1.setFontSize(24);
 
 # Enlace al video en YouTube
 [![Demo del LabelPersonalizado](https://img.youtube.com/vi/gcvcVPb1UKs/0.jpg)](https://www.youtube.com/watch?v=gcvcVPb1UKs)
+👉 [click aquí](https://youtu.be/gcvcVPb1UKs)
 
 # Colaboradores
 
