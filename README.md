@@ -43,7 +43,7 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 7. Asigna una categoría (ejemplo “CompPersonalizado”) y finaliza.
 8. El componente aparecerá en la paleta.
 
-![final esperado](images/imagen11)
+![final esperado](images/imagen11.png)
 
 ### Usar el componente desde el diseñador
 
@@ -56,12 +56,12 @@ labelPersonalizado1.setFontSize(24);
 ```
 
 ## Imágenes
-![Tipo de letra](images/imagen7)
+![Tipo de letra](images/imagen7.png)
 
-![Alineacion de texto](images/imagen8)
+![Alineacion de texto](images/imagen8.png)
 
-![Color de texto](images/imagen9)
+![Color de texto](images/imagen9.png)
 
-![Estilo de borde](images/images10)
+![Estilo de borde](images/images10.png)
 
-![Texto modificado](images/animacion1)
+![Texto modificado](images/animacion1.gif)
