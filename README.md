@@ -66,6 +66,9 @@ labelPersonalizado1.setFontSize(24);
 
 ![Texto modificado](images/animacion1.gif)
 
+# Enlace al video en YouTube
+[![Demo del LabelPersonalizado](https://img.youtube.com/vi/gcvcVPb1UKs/0.jpg)](https://www.youtube.com/watch?v=gcvcVPb1UKs)
+
 # Colaboradores
 
 [Álvarez Martínez Alessandro Santiago] (https://github.com/AleSantiagoAM)
