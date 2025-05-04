@@ -62,6 +62,6 @@ labelPersonalizado1.setFontSize(24);
 
 ![Color de texto](images/imagen9.png)
 
-![Estilo de borde](images/images10.png)
+![Estilo de borde](images/imagen10.png)
 
 ![Texto modificado](images/animacion1.gif)
