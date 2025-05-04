@@ -52,5 +52,3 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 ```java
 labelPersonalizado1.setFontFamily("Arial");
 labelPersonalizado1.setFontSize(24);
-labelPersonalizado1.setParpadeo(true);
-labelPersonalizado1.setMovil(true);
