@@ -47,7 +47,6 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 
 - Arrástralo desde la paleta al formulario.
 - Usa la **ventana de propiedades** para cambiar valores visibles como el texto.
-- Configura opciones avanzadas desde código:
 
 ```java
 labelPersonalizado1.setFontFamily("Arial");
