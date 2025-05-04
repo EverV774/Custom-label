@@ -43,6 +43,8 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 7. Asigna una categoría (ejemplo “CompPersonalizado”) y finaliza.
 8. El componente aparecerá en la paleta.
 
+![final esperado](images/imagen11)
+
 ### Usar el componente desde el diseñador
 
 - Arrástralo desde la paleta al formulario.
@@ -51,3 +53,15 @@ Es ideal para interfaces dinamicas donde se requiere destacar ciertos elementos 
 ```java
 labelPersonalizado1.setFontFamily("Arial");
 labelPersonalizado1.setFontSize(24);
+```
+
+## Imágenes
+![Tipo de letra](images/imagen7)
+
+![Alineacion de texto](images/imagen8)
+
+![Color de texto](images/imagen9)
+
+![Estilo de borde](images/images10)
+
+![Texto modificado](images/animacion1)
