@@ -70,6 +70,7 @@ labelPersonalizado1.setFontSize(24);
 
 - Debes colocar "setLayout(null)" en el constructor de tu JFrame, ya que las propiedades "Parpadear" y "Móvil" funcionan correctamente así. En caso de no colocarlo, al parpadear el objeto mueve a otros componentes; también provoca que al mover el Label y quitar la selección del JCheckBox, el Label regresa a su posición original.
 - También se debe de agregar el Package de "Sonidos" dentro del proyecto, en la misma carpeta, como por ejemplo "Source Packages".
+- Disponible para versiones GitHub 2024 en adelante
 
 # Enlace al video en YouTube
 [![Demo del LabelPersonalizado](https://img.youtube.com/vi/gcvcVPb1UKs/0.jpg)](https://www.youtube.com/watch?v=gcvcVPb1UKs)
